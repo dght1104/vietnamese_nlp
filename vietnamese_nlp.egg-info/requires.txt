@@ -1,3 +1,0 @@
-pyvi
-scikit-learn
-tensorflow

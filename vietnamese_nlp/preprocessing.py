@@ -1,5 +1,5 @@
 import re
-
+import pyvi
 class TextPreprocessor:
     stop_words = {"là", "của", "và", "những", "được", "có", "trong", "một", "khi", "nếu", "thì"}
 
