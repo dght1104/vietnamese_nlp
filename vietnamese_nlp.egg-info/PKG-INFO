@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: vietnamese_nlp
+Version: 0.1
+Summary: Thư viện xử lý ngôn ngữ tự nhiên cho tiếng Việt
+Author: Dght1104_SuperCow
+Requires-Dist: pyvi
+Requires-Dist: scikit-learn
+Requires-Dist: tensorflow
